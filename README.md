@@ -1,7 +1,7 @@
 # Taren Sanders
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1500&width=600&color=1F3A93&vCenter=true&lines=Associate+Professor;Health+Scientist;Data+Scientist" alt="Roles and interests, cycling" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1500&width=600&color=60A5FA&vCenter=true&lines=Associate+Professor;Health+Scientist;Data+Scientist" alt="Roles and interests, cycling" /></a>
 </p>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4504--6008-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4504-6008)
