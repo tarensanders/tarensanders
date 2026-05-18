@@ -7,10 +7,9 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4504--6008-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4504-6008)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ)
 [![ACU](https://img.shields.io/badge/ACU-Profile-1F3A93)](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-positive-psychology-and-education/our-people/dr-taren-sanders)
-[![Email](https://img.shields.io/badge/Email-Taren.Sanders%40acu.edu.au-EA4335?logo=gmail&logoColor=white)](mailto:Taren.Sanders@acu.edu.au)
 
 <!-- SCHOLAR:START -->
-![Publications](https://img.shields.io/badge/Publications-85-1F3A93) ![Citations](https://img.shields.io/badge/Citations-14044-1F3A93) ![h-index](https://img.shields.io/badge/h--index-33-1F3A93) ![i10-index](https://img.shields.io/badge/i10--index-44-1F3A93)
+[![Publications](https://img.shields.io/badge/Publications-85-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![Citations](https://img.shields.io/badge/Citations-14044-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![h-index](https://img.shields.io/badge/h--index-33-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![i10-index](https://img.shields.io/badge/i10--index-44-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ)
 <!-- SCHOLAR:END -->
 
 ---
