@@ -10,10 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-Taren.Sanders%40acu.edu.au-EA4335?logo=gmail&logoColor=white)](mailto:Taren.Sanders@acu.edu.au)
 
 <!-- SCHOLAR:START -->
-![Publications](https://img.shields.io/badge/Publications-%E2%80%94-1F3A93)
-![Citations](https://img.shields.io/badge/Citations-%E2%80%94-1F3A93)
-![h-index](https://img.shields.io/badge/h--index-%E2%80%94-1F3A93)
-![i10-index](https://img.shields.io/badge/i10--index-%E2%80%94-1F3A93)
+![Publications](https://img.shields.io/badge/Publications-85-1F3A93) ![Citations](https://img.shields.io/badge/Citations-14044-1F3A93) ![h-index](https://img.shields.io/badge/h--index-33-1F3A93) ![i10-index](https://img.shields.io/badge/i10--index-44-1F3A93)
 <!-- SCHOLAR:END -->
 
 ---
