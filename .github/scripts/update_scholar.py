@@ -12,6 +12,7 @@ import sys
 from pathlib import Path
 
 SCHOLAR_ID = "8KNzhS4AAAAJ"
+SCHOLAR_URL = f"https://scholar.google.com.au/citations?user={SCHOLAR_ID}"
 README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- SCHOLAR:START -->"
 END = "<!-- SCHOLAR:END -->"
@@ -20,10 +21,10 @@ COLOR = "1F3A93"
 
 def shield(label: str, value: int) -> str:
     label_safe = label.replace("-", "--").replace(" ", "%20")
-    return (
-        f"![{label}](https://img.shields.io/badge/"
-        f"{label_safe}-{value}-{COLOR})"
+    badge = (
+        f"https://img.shields.io/badge/{label_safe}-{value}-{COLOR}"
     )
+    return f"[![{label}]({badge})]({SCHOLAR_URL})"
 
 
 def fetch_metrics() -> dict[str, int]:
