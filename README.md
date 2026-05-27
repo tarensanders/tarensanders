@@ -9,7 +9,7 @@
 [![ACU](https://img.shields.io/badge/ACU-Profile-1F3A93)](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-positive-psychology-and-education/our-people/dr-taren-sanders)
 
 <!-- SCHOLAR:START -->
-[![Publications](https://img.shields.io/badge/Publications-79-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![Citations](https://img.shields.io/badge/Citations-14095-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![h-index](https://img.shields.io/badge/h--index-33-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![i10-index](https://img.shields.io/badge/i10--index-44-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ)
+[![Publications](https://img.shields.io/badge/Publications-79-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![Citations](https://img.shields.io/badge/Citations-14114-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![h-index](https://img.shields.io/badge/h--index-33-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ) [![i10-index](https://img.shields.io/badge/i10--index-44-1F3A93)](https://scholar.google.com.au/citations?user=8KNzhS4AAAAJ)
 <!-- SCHOLAR:END -->
 
 ---
